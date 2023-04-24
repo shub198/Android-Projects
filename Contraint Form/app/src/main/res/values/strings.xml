@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Constraint Mail</string>
+    <string name="to_string_name">To</string>
+    <string name="subject_string_name">Subject</string>
+    <string name="message_string_name">Message</string>
+    <string name="button_string_name">Send</string>
+
+</resources>
